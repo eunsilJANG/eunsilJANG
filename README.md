@@ -2,7 +2,7 @@
 - 👀 I’m interested in .........
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A3C1DA&height=250&section=header" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC9&height=150&section=header" />
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150§ion=header&text=안녕하세요!😊&fontSize=90)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=A3C1DA&height=150&section=footer" />
