@@ -6,8 +6,8 @@
   <p style="font-size: 24px; margin-bottom: 20px;">👀 I’m interested in:</p>
 
   <ul style="font-size: 20px;">
-    <li>[ ] 수업 복습하기</li>
-    <li>[ ] GitHub 공부하기</li>
+    <li>[x] 매일 공부하기</li>
+    <li>[x] GitHub 공부하기</li>
     <li>[x] 맛있는 것 먹기</li>
     <li>[ ] 운동하기</li>
   </ul>
