@@ -7,9 +7,9 @@
 
   <ul style="font-size: 20px;">
     <li>[x] 매일 공부하기</li>
-    <li>[x] GitHub 공부하기</li>
-    <li>[x] 맛있는 것 먹기</li>
-    <li>[ ] 운동하기</li>
+    <li>[x] 운동하기</li>
+    <li>[x] 잘 자기</li>
+    <li>[x] 멘탈관리</li>
   </ul>
 </div>
 
